@@ -1,0 +1,9 @@
+d:\temp\test_ur_iq\Get_the_Shape\Get_the_Shape\bin\Debug\Get_the_Shape.exe.config
+d:\temp\test_ur_iq\Get_the_Shape\Get_the_Shape\bin\Debug\Get_the_Shape.exe
+d:\temp\test_ur_iq\Get_the_Shape\Get_the_Shape\bin\Debug\Get_the_Shape.pdb
+d:\temp\test_ur_iq\Get_the_Shape\Get_the_Shape\obj\Debug\Get_the_Shape.csprojResolveAssemblyReference.cache
+d:\temp\test_ur_iq\Get_the_Shape\Get_the_Shape\obj\Debug\Get_the_Shape.Form1.resources
+d:\temp\test_ur_iq\Get_the_Shape\Get_the_Shape\obj\Debug\Get_the_Shape.Properties.Resources.resources
+d:\temp\test_ur_iq\Get_the_Shape\Get_the_Shape\obj\Debug\Get_the_Shape.csproj.GenerateResource.Cache
+d:\temp\test_ur_iq\Get_the_Shape\Get_the_Shape\obj\Debug\Get_the_Shape.exe
+d:\temp\test_ur_iq\Get_the_Shape\Get_the_Shape\obj\Debug\Get_the_Shape.pdb
